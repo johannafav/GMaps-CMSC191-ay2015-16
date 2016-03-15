@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyAGxnewKa0500ts2ZIzkQtmK8B6bhsbQ6M"></script>
+<script src="http://maps.googleapis.com/maps/api/js?key=API_KEY"></script>
 <script>
 
 var customIcons = {
